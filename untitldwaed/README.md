@@ -12,7 +12,7 @@ $$
 x^2
 $$
 
-{% page-ref page="untitldwaed.md" %}
+{% page-ref page="./" %}
 
 dwq
 
