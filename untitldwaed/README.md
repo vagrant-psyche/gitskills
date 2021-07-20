@@ -8,11 +8,11 @@ dwq
 
 dwq
 
+{% page-ref page="./" %}
+
 $$
 x^2
 $$
-
-{% page-ref page="./" %}
 
 dwq
 
