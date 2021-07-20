@@ -6,14 +6,12 @@
 
 ## dwq
 
----
-
-* [Untitldwaed](untitldwaed/README.md)
-  * [Untitled](untitldwaed/untitled.md)
-* [hello](hello/README.md)
-  * [hh](hello/hh.md)
-  * [dwqdwq](hello/dwqdwq/README.md)
-    * [Untitled](hello/dwqdwq/untitled-1/README.md)
-      * [page](hello/dwqdwq/untitled-1/page/README.md)
-        * [Untitled](hello/dwqdwq/untitled-1/page/untitled.md)
+* [Untitldwaed](dwq/untitldwaed/README.md)
+  * [Untitled](dwq/untitldwaed/untitled.md)
+* [hello](dwq/hello/README.md)
+  * [hh](dwq/hello/hh.md)
+  * [dwqdwq](dwq/hello/dwqdwq/README.md)
+    * [Untitled](dwq/hello/dwqdwq/untitled-1/README.md)
+      * [page](dwq/hello/dwqdwq/untitled-1/page/README.md)
+        * [Untitled](dwq/hello/dwqdwq/untitled-1/page/untitled.md)
 
